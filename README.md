@@ -1,5 +1,5 @@
 <h1>Hello World</h1>
-I'm Brandon, Developer and Systems Engineer, currently focused on DevOps, Microservices, and Automation in Kubernetes. 
+I'm Brandon, Developer and Systems Engineer, currently focused on DevOps, Microservices, and Automation using Kubernetes in the cloud. 
 
 <h3>Things I code with</h3>
 <p>
