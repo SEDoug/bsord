@@ -3,7 +3,6 @@ I'm Brandon, Developer and Systems Engineer, currently focused on DevOps, Micros
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-091C84?style=flat-square&logo=helm&logoColor=white" />
