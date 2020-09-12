@@ -3,6 +3,7 @@ I'm Brandon, Developer and Systems Engineer, currently focused on DevOps, Micros
 
 <h3>Things I code with</h3>
 <p>
+  
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-091C84?style=flat-square&logo=helm&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" />
@@ -11,6 +12,7 @@ I'm Brandon, Developer and Systems Engineer, currently focused on DevOps, Micros
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-DigitalOcean-0080ff?style=flat-square&logo=digitalocean&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
