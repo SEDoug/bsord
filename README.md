@@ -1,7 +1,7 @@
 <h1>Hello World</h1>
 I'm Brandon, Developer and Systems Engineer, currently focused on DevOps, Microservices, and Automation using Kubernetes in the cloud. 
 
-<h3>Things I code with</h3>
+<h3>Things I code with </h3>
 <p>
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" />
